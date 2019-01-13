@@ -1,6 +1,7 @@
 A repoistory for QA Infotech Pre-joining work.
 
 This repository contains 2 folders:
+
     1. Selenium with maven
         This contains maven project with 3 java files 
             1. SendEmail.java : for sending emails using gmail UI automated with Selenium.
